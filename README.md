@@ -1,16 +1,18 @@
-## Hi there 👋
+🌦️ Hà Khánh Linh
 
-<!--
-**hakhanhlinh-vtv/hakhanhlinh-vtv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Biên tập viên – MC Đài Truyền hình Việt Nam (VTV)  
+Chuyên mảng dự báo thời tiết & phân tích khí tượng
 
-Here are some ideas to get you started:
+🔗 *Website dự báo thời tiết chính thức:* 
+👉 https://thoitiet24h.edu.vn/
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📍 Việt Nam  
+🎂 Sinh ngày: 25/08/2000  
+
+### Lĩnh vực quan tâm
+- Dự báo thời tiết Việt Nam
+- Phân tích khí tượng
+- Biến đổi khí hậu
+- Truyền thông – báo chí
+
+> Chia sẻ thông tin thời tiết chính xác, dễ hiểu, phục vụ cộng đồng.
